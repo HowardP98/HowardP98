@@ -39,6 +39,18 @@
   />
 </p>
 
+## 🤖 Specialized in AI & DevOps
+
+I focus on bridging the gap between Large Language Models and scalable production environments through robust infrastructure and continuous delivery.
+
+| Area | Technologies & Concepts |
+| :--- | :--- |
+| **AI Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| **LLM Integrations** | ![OpenAI](https://img.shields.io/badge/OpenAI_Integrations-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Architecture-FF6F61?style=flat-square) |
+| **CI/CD & Reliability** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Sentry](https://img.shields.io/badge/Observability-362D59?style=flat-square&logo=sentry&logoColor=white) |
+
+---
+
 ---
 
 ## Skills
