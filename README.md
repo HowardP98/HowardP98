@@ -23,11 +23,11 @@
 </p>
 
 **Lately, I’ve been working with:**
-- **AI & Infrastructure:** LLM integrations, CI/CD pipelines, and Observability.
-- **Frontend:** Building interfaces HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, Vue.js 3, Bootstrap  
-- **Backend:** Python, Java (Spring), PHP and MySQL for data management.
-- **DevOps & Tools:** Git, GitHub, Jira, Docker for containerization and Postman for API testing.
-- **Operating Systems:** Linux, Windows
+- **🤖AI & Infrastructure:** LLM integrations, CI/CD pipelines, and Observability.
+- **🎨Frontend:** Building interfaces HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, Vue.js 3, Bootstrap  
+- **⚙️Backend:** Python, Java (Spring), PHP and MySQL for data management.
+- **🚀DevOps & Tools:** Git, GitHub, Jira, Docker for containerization and Postman for API testing.
+- **🐧Operating Systems:** Linux, Windows
 
 ---
 
