@@ -19,8 +19,7 @@
 
 ## 💻 Technology
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" style="vertical-align: middle;" /> 
-  <img src="https://img.shields.io/badge/Anthropic-%23D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Code" style="vertical-align: middle; width: 28px; height: 47px; border-radius: 5px; margin-left: 5px;" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,postman,ai,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" style="vertical-align: middle;" /> 
 </p>
 
 **Lately, I’ve been working with:**
