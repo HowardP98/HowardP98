@@ -1,16 +1,57 @@
-## Hi there 👋
+# Howard Padrón Mojena
+**Estudiante de Desarrollo de Aplicaciones Web**  
+Desarrollador Frontend especializado en JS, TS y Frameworks modernos.  
 
-<!--
-**HowardP98/HowardP98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- howardpadron98@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/howard-padron-6185a0366/)  
+- [GitHub](https://github.com/HowardP98)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,linux,vscode,vue,github" alt="Tech Stack" style="width: 100%; max-width: 700px;"/> 
+</p>
+
+**Frontend:** HTML5, CSS3, JavaScript TypeScript, Vue.js 3, Bootstrap  
+**Backend:** Python, Java, PHP
+**Bases de Datos:** MySQL
+**Herramientas:** Git, GitHub, VS Code, Cursor, Docker, Jira
+**Sistemas Operativos:** Linux, Windows
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=HowardP98&theme=radical&hide_border=true" 
+    alt="Racha de contribuciones" 
+    height="180px"
+  />
+</p>
+
+---
+
+## Habilidades
+- Desarrollo de interfaces web modernas y responsivas  
+- Programación en Python con Flask para backend
+- Java con Spring Boot y configuración de seguridad mediante Spring Security 
+- Gestión de bases de datos MySQL  
+- Maquetación con HTML5 semántico y CSS3  
+- Componentes Vue.js reactivos y reutilizables  
+- Control de versiones con Git/GitHub  
+- Buenas prácticas de código, principios SOLID y documentación  
+
+---
+
+## En aprendizaje
+- Vue.js Composition API  
+- Software Jenkins
+- Testing frontend  
+- Optimización web  
+
+---
+
+**Estudiante de DAW | Desarrollador Full Stack en formación | Buscando oportunidades para aplicar mis conocimientos**
+
+
