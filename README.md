@@ -19,11 +19,11 @@
 
 ## 💻Technology
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" style="width: 100%; max-width: 700px;"/> 
+  <img src="https://skillicons.dev/icons?i=js,html,claudecode,css,python,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" style="width: 100%; max-width: 700px;"/> 
 </p>
 
 **Lately, I’ve been working with:**
--**AI & Infrastructure:** LLM integrations, CI/CD pipelines, and Observability.
+- **AI & Infrastructure:** LLM integrations, CI/CD pipelines, and Observability.
 - **Frontend:** Building interfaces HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, Vue.js 3, Bootstrap  
 - **Backend:** Python, Java (Spring), PHP and MySQL for data management.
 - **DevOps & Tools:** Git, GitHub, Jira, Docker for containerization and Postman for API testing.
@@ -65,5 +65,3 @@
 ---
 
 **Junior Full Stack Developer | Seeking opportunities to apply my skills**
-
-
