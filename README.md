@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
-**`HowardP98 - Junior Web Developer`**<br><br>
+**`HowardP98 - Junior Web Developer`**<br>
 
 **Welcome to my GitHub! I specialize in building robust, scalable web applications by bridging the gap between powerful backend systems and intuitive, dynamic user interfaces.**
 
@@ -17,12 +17,13 @@
 
 ---
 
-## Technology
+## 💻Technology
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" style="width: 100%; max-width: 700px;"/> 
 </p>
 
 **Lately, I’ve been working with:**
+-**AI & Infrastructure:** LLM integrations, CI/CD pipelines, and Observability.
 - **Frontend:** Building interfaces HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, Vue.js 3, Bootstrap  
 - **Backend:** Python, Java (Spring), PHP and MySQL for data management.
 - **DevOps & Tools:** Git, GitHub, Jira, Docker for containerization and Postman for API testing.
@@ -39,21 +40,11 @@
   />
 </p>
 
-## 🤖 Specialized in AI & DevOps
-
-I focus on bridging the gap between Large Language Models and scalable production environments through robust infrastructure and continuous delivery.
-
-| Area | Technologies & Concepts |
-| :--- | :--- |
-| **AI Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
-| **LLM Integrations** | ![OpenAI](https://img.shields.io/badge/OpenAI_Integrations-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Architecture-FF6F61?style=flat-square) |
-| **CI/CD & Reliability** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Sentry](https://img.shields.io/badge/Observability-362D59?style=flat-square&logo=sentry&logoColor=white) |
-
 ---
 
----
-
-## Skills
+## 🛠️Skills
+- CI/CD, observability, and reliability
+- AI infrastructure and LLM integrations
 - Development of modern, responsive web interfaces
 - Backend programming in Python using Flask
 - Java with Spring Boot and security configuration using Spring Security
@@ -65,7 +56,7 @@ I focus on bridging the gap between Large Language Models and scalable productio
 
 ---
 
-## Currently Learning
+## 📚Currently Learning
 - Vue.js Composition API
 - Jenkins
 - Frontend testing
