@@ -29,7 +29,6 @@
 - **Operating Systems:** Linux, Windows
 
 ---
-<hr>
 
 ## 📊GitHub Stats
 <p align="center">
