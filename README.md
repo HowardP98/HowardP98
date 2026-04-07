@@ -19,7 +19,7 @@
 
 ## 💻 Technology
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,postman,ai,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" style="vertical-align: middle;" /> 
+  <img src="https://skillicons.dev/icons?i=js,html,python,postman,ai,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" style="vertical-align: middle;" /> 
 </p>
 
 **Lately, I’ve been working with:**
