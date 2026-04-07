@@ -1,7 +1,15 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 **`HowardP98 - Junior Web Developer`**<br><br>
 
-**I’m Howard Padrón, a junior web developer based in Spain. I focus on the integration between Java (Spring) backends and modern Frameworks like Vue.js and Tailwind CSS frontends. I have experience managing databases with MySQL and using Docker for containerized development environments.**  
+**Welcome to my GitHub! I specialize in building robust, scalable web applications by bridging the gap between powerful backend systems and intuitive, dynamic user interfaces.**
+
+### 👨‍💻 About Me
+**I’m Howard Padrón, a junior web developer based in Spain. 
+- 🔭 I focus on building seamless integrations between **Java (Spring)** backends and modern frontends like **Vue.js**.
+- 🗄️ I have practical experience designing and managing relational databases with **MySQL**.
+- 🐳 I leverage **Docker** for containerized development, ensuring clean and consistent environments from local testing to production.
+- 🌱 I’m constantly learning new patterns and best practices to write cleaner, more efficient code.
+- 💬 Ask me about: **Spring Boot, Vue.js, or setting up Docker environments.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howard-padron-6185a0366/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howardpadron98@gmail.com)
@@ -11,6 +19,15 @@
 ## Technology
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" style="width: 100%; max-width: 700px;"/> 
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 **Lately, I’ve been working with:**
