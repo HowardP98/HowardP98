@@ -4,8 +4,8 @@
 **I’m Howard Padrón, a junior web developer based in Spain. I focus on the integration between Java (Spring) backends and modern Frameworks like Vue.js frontends. I have experience managing databases with MySQL and using Docker for containerized development environments.**  
 
 - howardpadron98@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/howard-padron-6185a0366/)  
-- [GitHub](https://github.com/HowardP98)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howard-padron-6185a0366/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howardpadron98@gmail.com)
 
 ---
 
