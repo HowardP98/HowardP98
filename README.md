@@ -1,6 +1,7 @@
-# Howard Padrón Mojena
-**Estudiante de Desarrollo de Aplicaciones Web**  
-Desarrollador Frontend especializado en JS, TS y Frameworks modernos.  
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+**`HowardP98 - Junior Web Developer`**<br><br>
+
+**I’m Howard Padrón, a junior web developer based in Spain. I focus on the integration between Java (Spring) backends and modern Frameworks like Vue.js frontends. I have experience managing databases with MySQL and using Docker for containerized development environments.**  
 
 - howardpadron98@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/howard-padron-6185a0366/)  
@@ -8,18 +9,19 @@ Desarrollador Frontend especializado en JS, TS y Frameworks modernos.
 
 ---
 
-## Tecnologías
+## Technology
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,linux,vscode,vue,github" alt="Tech Stack" style="width: 100%; max-width: 700px;"/> 
 </p>
 
-**Frontend:** HTML5, CSS3, JavaScript TypeScript, Vue.js 3, Bootstrap  
-**Backend:** Python, Java, PHP
-**Bases de Datos:** MySQL
-**Herramientas:** Git, GitHub, VS Code, Cursor, Docker, Jira
-**Sistemas Operativos:** Linux, Windows
+**Lately, I’ve been working with:**
+- **Frontend:** Building interfaces HTML5, CSS3, JavaScript TypeScript, Vue.js 3, Bootstrap  
+- **Backend:** Python, Java (Spring), PHP and MySQL for data management.
+- **DevOps & Tools:** Git, GitHub, Jira, Docker for containerization and Postman for API testing.
+- **Operating Systems:** Linux, Windows
 
 ---
+<hr>
 
 ## GitHub Stats
 <p align="center">
@@ -32,26 +34,26 @@ Desarrollador Frontend especializado en JS, TS y Frameworks modernos.
 
 ---
 
-## Habilidades
-- Desarrollo de interfaces web modernas y responsivas  
-- Programación en Python con Flask para backend
-- Java con Spring Boot y configuración de seguridad mediante Spring Security 
-- Gestión de bases de datos MySQL  
-- Maquetación con HTML5 semántico y CSS3  
-- Componentes Vue.js reactivos y reutilizables  
-- Control de versiones con Git/GitHub  
-- Buenas prácticas de código, principios SOLID y documentación  
+## Skills
+- Development of modern, responsive web interfaces
+- Backend programming in Python using Flask
+- Java with Spring Boot and security configuration using Spring Security
+- MySQL database management
+- Semantic HTML5 markup and CSS3 styling
+- Reactive and reusable Vue.js components  
+- Version control with Git/GitHub
+- Clean code practices, SOLID principles, and documentation
 
 ---
 
-## En aprendizaje
-- Vue.js Composition API  
-- Software Jenkins
-- Testing frontend  
-- Optimización web  
+## Currently Learning
+- Vue.js Composition API
+- Jenkins
+- Frontend testing
+- Web performance optimization
 
 ---
 
-**Estudiante de DAW | Desarrollador Full Stack en formación | Buscando oportunidades para aplicar mis conocimientos**
+**Junior Full Stack Developer | Seeking opportunities to apply my skills**
 
 
