@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 **I’m Howard Padrón, a junior web developer based in Spain.**
-- 🔭 I focus on building seamless integrations between **Java (Spring)** backends and modern frontends like **Vue.js**.
+- 🔭 I focus on building seamless integrations between **Java (Spring)** backends and modern Frameworks like **Vue.js**.
 - 🗄️ I have practical experience designing and managing relational databases with **MySQL**.
 - 🐳 I leverage **Docker** for containerized development, ensuring clean and consistent environments from local testing to production.
 - 🌱 I’m constantly learning new patterns and best practices to write cleaner, more efficient code.
