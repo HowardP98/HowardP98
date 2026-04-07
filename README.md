@@ -20,20 +20,9 @@
 ## 💻Technology
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" style="width: 100%; max-width: 700px;"/> 
-</p>
-
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" /> 
-  <br>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/LLM_Integrations-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM">
-</p>
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,php,java,linux,vscode,vue,github,tailwind" alt="Tech Stack" />
   <img src="https://img.shields.io/badge/-anthropic-%23D97757?style=flat-square&logo=anthropic&logoColor=white&height=50" alt="Claude Code" style="vertical-align: top; height: 50px; margin-left: -4px;" />
 </p>
+
 
 **Lately, I’ve been working with:**
 - **AI & Infrastructure:** LLM integrations, CI/CD pipelines, and Observability.
