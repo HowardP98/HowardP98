@@ -11,8 +11,9 @@
 - 🌱 I’m constantly learning new patterns and best practices to write cleaner, more efficient code.
 - 💬 Ask me about: **Spring Boot, Vue.js, or setting up Docker environments.**
 
+### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howard-padron-6185a0366/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howardpadron98@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howardpadron98@gmail.com)
 
 ---
 
@@ -30,7 +31,7 @@
 ---
 <hr>
 
-## GitHub Stats
+## 📊GitHub Stats
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=HowardP98&theme=radical&hide_border=true" 
