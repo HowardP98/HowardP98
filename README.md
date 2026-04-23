@@ -12,7 +12,7 @@
 - 💬 Ask me about: **Spring Boot, Vue.js, or setting up Docker environments.**
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howard-padron-6185a0366/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howard-padr%C3%B3n-mojena-6185a0366/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howardpadron98@gmail.com)
 
 ---
