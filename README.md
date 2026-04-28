@@ -1,4 +1,4 @@
-1### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 **`HowardP98 - Junior Web Developer`**<br>
 
 **Welcome to my GitHub! I specialize in building robust, scalable web applications by bridging the gap between powerful backend systems and intuitive, dynamic user interfaces.**
