@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HowardP98&theme=radical&hide_border=true" alt="Racha de contribuciones" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=HowardP98&theme=dark&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC" height="150px" />
 </p>
 
 ---
